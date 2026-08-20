@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**dcadroja/dcadroja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Deep 👋
+ 
+## UI Designer • Angular Developer • .NET Developer
+ 
+I build interfaces that solve **business problems**, not just look good.
+ 
+Since **2022** (full-time since **2023**), I've been designing and building web applications - turning ideas into clean, responsive interfaces backed by solid code. I enjoy working closely with customers to understand their goals, design practical solutions, and ship products that feel good to use.
+ 
+### What I focus on
+ 
+- 🎨 **UI Design** - Clean, responsive HTML/CSS design built for real users.
+- ⚡ **Angular** - Modern, responsive, and maintainable web applications.
+- 🏗️ **Backend** - .NET APIs that keep the frontend fast and reliable.
+  
+### Tech Stack
+ 
+- *Backend:* .NET, Entity Framework, Dapper
+- *Frontend:* Angular, JavaScript
+- *Database:* SQL Server, MySQL
+- *DevOps/Server Management:* [CtrlOps](https://ctrlops.io) for managing and deploying to multiple Linux servers
+  
+> *Good design isn't about adding more - it's about removing everything that gets in the user's way.*
+ 
