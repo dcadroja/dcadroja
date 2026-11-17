@@ -17,7 +17,6 @@ Since **2022** (full-time since **2023**), I've been designing and building web 
 - *Backend:* .NET, Entity Framework, Dapper
 - *Frontend:* Angular, JavaScript
 - *Database:* SQL Server, MySQL
-- *DevOps/Server Management:* [CtrlOps](https://ctrlops.io) for managing and deploying to multiple Linux servers
   
 > *Good design isn't about adding more - it's about removing everything that gets in the user's way.*
  
